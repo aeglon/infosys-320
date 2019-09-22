@@ -1,0 +1,28 @@
+[
+  {
+    "id": "6c6afd9b-7cd2-4fe2-bbe2-64e8f4039a3d",
+    "createdAt": "2019-09-14T03:00:23.270Z",
+    "updatedAt": "2019-09-14T03:00:24.083Z",
+    "version": "AAAAAAAAE6k=",
+    "Course": Infosys 320,
+    "Semester": "1",
+    "Lecturer": "David White",
+    "X": 1,
+    "Y": 1.5,
+    "Z": 1,
+    "deleted": false
+  },
+  {
+    "id": "13ba0b81-1a9b-4bc2-ab6b-85c3b1238759",
+    "createdAt": "2019-09-14T03:00:23.270Z",
+    "updatedAt": "2019-09-14T03:00:24.083Z",
+    "version": "AAAAAAAAE6g=",
+    "Course": Infosys 322,
+    "Lecturer": "Fernando Beltran",
+    "Semester": "1",
+    "X": 2,
+    "Y": 0.5,
+    "Z": 2.5,
+    "deleted": false
+  }
+]
