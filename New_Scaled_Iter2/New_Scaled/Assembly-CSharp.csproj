@@ -66,12 +66,17 @@
      <Compile Include="Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs" />
      <Compile Include="Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
      <Compile Include="Assets\Scripts\ScalePlant.cs" />
+     <Compile Include="Assets\Scripts\Timetable.cs" />
      <Compile Include="Assets\Scripts\VRGameManagerScript.cs" />
      <Compile Include="Assets\Scripts\VRLauncher.cs" />
      <Compile Include="Assets\Scripts\VRPlayerManager.cs" />
      <Compile Include="Assets\Scripts\VRPlayerNameInputField.cs" />
      <Compile Include="Assets\Scripts\VRPlayerUI.cs" />
      <Compile Include="Assets\showImage\showImage.cs" />
+     <Compile Include="Assets\showImage\showobject.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\MixedRealityToolkit.Providers\Version.txt" />
@@ -101,19 +106,19 @@
      <None Include="Assets\Photon\PhotonUnityNetworking\changelog.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/UoA/Y4/S2/Unity/2018.4.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -317,19 +322,19 @@
  <HintPath>D:/UoA/Y4/S2/Unity/2018.4.6f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Photon3Unity3D">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>
  </Reference>
  <Reference Include="websocket-sharp">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>C:/Users/User/Documents/GitHub/infosys-320/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>D:/UoA/Y4/S2/Unity/New_Scaled_Iter2/New_Scaled/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/UoA/Y4/S2/Unity/2018.4.6f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
